@@ -1,0 +1,21 @@
+{
+  "action": {
+    "description": "Enrolled and delivered to Governor.",
+    "occurred_at": "2025-11-21T08:00:00+00:00",
+    "jurisdiction_id": "~{\"classification\": \"executive\"}",
+    "session_id": "2025Special36",
+    "entity_type": "bill",
+    "classifications": [
+      "enrolled",
+      "executive-receipt"
+    ],
+    "related_entities": [],
+    "sources": [
+      {
+        "url": "https://www.leg.state.nv.us/App/NELIS/REL/36th2025Special/Bill/12998/Overview",
+        "note": ""
+      }
+    ]
+  },
+  "bill_id": "SB4"
+}

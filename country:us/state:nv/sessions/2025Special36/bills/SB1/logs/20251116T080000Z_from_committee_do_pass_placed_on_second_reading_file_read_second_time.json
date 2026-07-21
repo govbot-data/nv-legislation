@@ -1,0 +1,21 @@
+{
+  "action": {
+    "description": "From committee: Do pass.\rPlaced on Second Reading File.\rRead second time.",
+    "occurred_at": "2025-11-16T08:00:00+00:00",
+    "jurisdiction_id": "~{\"classification\": \"lower\"}",
+    "session_id": "2025Special36",
+    "entity_type": "bill",
+    "classifications": [
+      "committee-passage",
+      "reading-2"
+    ],
+    "related_entities": [],
+    "sources": [
+      {
+        "url": "https://www.leg.state.nv.us/App/NELIS/REL/36th2025Special/Bill/12990/Overview",
+        "note": ""
+      }
+    ]
+  },
+  "bill_id": "SB1"
+}

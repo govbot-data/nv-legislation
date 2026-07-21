@@ -1,0 +1,20 @@
+{
+  "action": {
+    "description": "In Assembly. To enrollment.",
+    "occurred_at": "2025-11-14T08:00:00+00:00",
+    "jurisdiction_id": "~{\"classification\": \"lower\"}",
+    "session_id": "2025Special36",
+    "entity_type": "bill",
+    "classifications": [
+      "passage"
+    ],
+    "related_entities": [],
+    "sources": [
+      {
+        "url": "https://www.leg.state.nv.us/App/NELIS/REL/36th2025Special/Bill/12981/Overview",
+        "note": ""
+      }
+    ]
+  },
+  "bill_id": "ACR1"
+}

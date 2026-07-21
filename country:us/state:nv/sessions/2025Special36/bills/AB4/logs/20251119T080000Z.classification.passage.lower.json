@@ -1,0 +1,21 @@
+{
+  "action": {
+    "description": "From printer. To re-engrossment. Re-engrossed. Third reprint. To Assembly.\rIn Assembly.\rReturned from Assembly in accordance with motion of the body.\rReturned to Senate.\rIn Senate.\rAction of passage rescinded.\rPlaced on General File.\rRead third time. Amended. (Amend. No. 34.)\rReprinting dispensed with.\rRead third time. Passed, as amended. Title approved, as amended. (Yeas:\u00a016, Nays:\u00a02, Excused:\u00a03.) To printer.\rFrom printer. To re-engrossment. Re-engrossed. Fourth reprint. To Assembly.\rIn Assembly.\rSenate Amendment Nos. 31 and 34 concurred in. To enrollment.",
+    "occurred_at": "2025-11-19T08:00:00+00:00",
+    "jurisdiction_id": "~{\"classification\": \"lower\"}",
+    "session_id": "2025Special36",
+    "entity_type": "bill",
+    "classifications": [
+      "passage",
+      "reading-3"
+    ],
+    "related_entities": [],
+    "sources": [
+      {
+        "url": "https://www.leg.state.nv.us/App/NELIS/REL/36th2025Special/Bill/12994/Overview",
+        "note": ""
+      }
+    ]
+  },
+  "bill_id": "AB4"
+}

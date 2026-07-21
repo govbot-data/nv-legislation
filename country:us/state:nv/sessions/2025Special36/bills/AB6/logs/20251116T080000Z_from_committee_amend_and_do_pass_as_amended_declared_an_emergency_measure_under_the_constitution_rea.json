@@ -1,0 +1,24 @@
+{
+  "action": {
+    "description": "From committee: Amend, and do pass as amended.\rDeclared an emergency measure under the Constitution.\rRead third time. Amended. (Amend. No. 6.) Dispensed with reprinting.\rRead third time. Passed, as amended. Title approved, as amended. (Yeas:\u00a042, Nays:\u00a0None.)\rTo printer.\rFrom printer. To engrossment. Engrossed. First reprint.\rTo Senate.\rIn Senate.\rRead first time. Referred to Select Committee on Health and Wellness. To committee.",
+    "occurred_at": "2025-11-16T08:00:00+00:00",
+    "jurisdiction_id": "~{\"classification\": \"lower\"}",
+    "session_id": "2025Special36",
+    "entity_type": "bill",
+    "classifications": [
+      "committee-passage",
+      "passage",
+      "reading-1",
+      "reading-3",
+      "referral-committee"
+    ],
+    "related_entities": [],
+    "sources": [
+      {
+        "url": "https://www.leg.state.nv.us/App/NELIS/REL/36th2025Special/Bill/12995/Overview",
+        "note": ""
+      }
+    ]
+  },
+  "bill_id": "AB6"
+}

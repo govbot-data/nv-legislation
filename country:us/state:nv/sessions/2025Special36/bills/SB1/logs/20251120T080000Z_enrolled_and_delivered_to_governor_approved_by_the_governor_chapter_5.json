@@ -1,0 +1,22 @@
+{
+  "action": {
+    "description": "Enrolled and delivered to Governor.\rApproved by the Governor. Chapter 5.",
+    "occurred_at": "2025-11-20T08:00:00+00:00",
+    "jurisdiction_id": "~{\"classification\": \"executive\"}",
+    "session_id": "2025Special36",
+    "entity_type": "bill",
+    "classifications": [
+      "enrolled",
+      "executive-receipt",
+      "executive-signature"
+    ],
+    "related_entities": [],
+    "sources": [
+      {
+        "url": "https://www.leg.state.nv.us/App/NELIS/REL/36th2025Special/Bill/12990/Overview",
+        "note": ""
+      }
+    ]
+  },
+  "bill_id": "SB1"
+}

@@ -1,0 +1,21 @@
+{
+  "action": {
+    "description": "Declared an emergency measure under the Constitution.\rRead third time. Amended. (Amend. No. 22.)\rDispensed with reprinting.\rRead third time. Passed, as amended. Title approved. (Yeas:\u00a038, Nays:\u00a0None, Excused:\u00a03, Not voting:\u00a01.)\rTo printer.\rFrom printer. To reengrossment. Reengrossed. Second reprint.\rTo Senate.\rIn Senate.\rAssembly Amendment No. 22 concurred in. To enrollment.",
+    "occurred_at": "2025-11-17T08:00:00+00:00",
+    "jurisdiction_id": "~{\"classification\": \"upper\"}",
+    "session_id": "2025Special36",
+    "entity_type": "bill",
+    "classifications": [
+      "passage",
+      "reading-3"
+    ],
+    "related_entities": [],
+    "sources": [
+      {
+        "url": "https://www.leg.state.nv.us/App/NELIS/REL/36th2025Special/Bill/13002/Overview",
+        "note": ""
+      }
+    ]
+  },
+  "bill_id": "SB6"
+}

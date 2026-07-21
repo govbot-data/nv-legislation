@@ -1,0 +1,21 @@
+{
+  "action": {
+    "description": "Read third time. Amended. (Amend. No. 18.) To printer.\rFrom printer. To engrossment. Engrossed. First reprint.\rRead third time. Passed, as amended. Title approved, as amended. (Yeas:\u00a039, Nays:\u00a0None, Excused:\u00a03.) To Senate.\rIn Senate.\rAssembly Amendment No. 18 concurred in. To enrollment.",
+    "occurred_at": "2025-11-17T08:00:00+00:00",
+    "jurisdiction_id": "~{\"classification\": \"lower\"}",
+    "session_id": "2025Special36",
+    "entity_type": "bill",
+    "classifications": [
+      "passage",
+      "reading-3"
+    ],
+    "related_entities": [],
+    "sources": [
+      {
+        "url": "https://www.leg.state.nv.us/App/NELIS/REL/36th2025Special/Bill/12993/Overview",
+        "note": ""
+      }
+    ]
+  },
+  "bill_id": "SB2"
+}

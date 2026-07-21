@@ -1,0 +1,21 @@
+{
+  "action": {
+    "description": "Prefiled. Referred to Select Committee on Health and Wellness. To printer.",
+    "occurred_at": "2025-11-12T08:00:00+00:00",
+    "jurisdiction_id": "~{\"classification\": \"lower\"}",
+    "session_id": "2025Special36",
+    "entity_type": "bill",
+    "classifications": [
+      "introduction",
+      "referral-committee"
+    ],
+    "related_entities": [],
+    "sources": [
+      {
+        "url": "https://www.leg.state.nv.us/App/NELIS/REL/36th2025Special/Bill/12988/Overview",
+        "note": ""
+      }
+    ]
+  },
+  "bill_id": "AB1"
+}

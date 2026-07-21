@@ -1,0 +1,20 @@
+{
+  "action": {
+    "description": "From committee: Do pass.\rDeclared an emergency measure under the Constitution.\rTaken from General File. Placed on General File for next legislative day.",
+    "occurred_at": "2025-11-17T08:00:00+00:00",
+    "jurisdiction_id": "~{\"classification\": \"lower\"}",
+    "session_id": "2025Special36",
+    "entity_type": "bill",
+    "classifications": [
+      "committee-passage"
+    ],
+    "related_entities": [],
+    "sources": [
+      {
+        "url": "https://www.leg.state.nv.us/App/NELIS/REL/36th2025Special/Bill/12994/Overview",
+        "note": ""
+      }
+    ]
+  },
+  "bill_id": "AB4"
+}

@@ -1,0 +1,22 @@
+{
+  "action": {
+    "description": "From committee: Amend, and do pass as amended.\rDeclared an emergency measure under the Constitution.\rRead third time. Amended. (Amend. No. 27.)\rDispensed with reprinting.\rRead third time. Passed, as amended. Title approved. (Yeas:\u00a033, Nays:\u00a04, Excused:\u00a05.)\rTo printer.\rFrom printer. To reengrossment. Reengrossed. Second reprint.\rTo Senate.\rIn Senate.\rAssembly Amendment No. 27 concurred in.\rTo enrollment.",
+    "occurred_at": "2025-11-18T08:00:00+00:00",
+    "jurisdiction_id": "~{\"classification\": \"lower\"}",
+    "session_id": "2025Special36",
+    "entity_type": "bill",
+    "classifications": [
+      "committee-passage",
+      "passage",
+      "reading-3"
+    ],
+    "related_entities": [],
+    "sources": [
+      {
+        "url": "https://www.leg.state.nv.us/App/NELIS/REL/36th2025Special/Bill/13005/Overview",
+        "note": ""
+      }
+    ]
+  },
+  "bill_id": "SB8"
+}

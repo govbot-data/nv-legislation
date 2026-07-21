@@ -1,0 +1,20 @@
+{
+  "action": {
+    "description": "Resolution read. Passed. Title approved. (Yeas:\u00a012, Nays:\u00a04, Excused:\u00a05.)\rTo printer.\rFrom printer. To Assembly.\rIn Assembly.\rResolution read. Passed. Title approved. (Yeas:\u00a026, Nays:\u00a09, Excused:\u00a07.) To Senate.\rIn Senate. To enrollment.",
+    "occurred_at": "2025-11-19T08:00:00+00:00",
+    "jurisdiction_id": "~{\"classification\": \"upper\"}",
+    "session_id": "2025Special36",
+    "entity_type": "bill",
+    "classifications": [
+      "passage"
+    ],
+    "related_entities": [],
+    "sources": [
+      {
+        "url": "https://www.leg.state.nv.us/App/NELIS/REL/36th2025Special/Bill/13009/Overview",
+        "note": ""
+      }
+    ]
+  },
+  "bill_id": "SJR1"
+}
